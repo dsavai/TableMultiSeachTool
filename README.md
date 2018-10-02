@@ -1,2 +1,0 @@
-# TableMultiSeachTool
-Created with CodeSandbox
